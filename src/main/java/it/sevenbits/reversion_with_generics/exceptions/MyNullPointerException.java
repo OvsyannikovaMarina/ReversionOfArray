@@ -11,3 +11,8 @@ public class MyNullPointerException extends Exception {
         super();
     }
 }
+//jacoco
+//junit
+//surefire
+
+//рефлексия
